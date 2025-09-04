@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Observability using Opentelemetry**
 
-- 🌱 I’m currently learning **Kubernetes, Go and Observability**
+- 🌱 I’ve expertise in **Kubernetes, Cloud, IAC, CI/CD and Observability**
 
 - 💬 Ask me about **Kubernetes, Observability, SRE, Devops and AWS**
 
